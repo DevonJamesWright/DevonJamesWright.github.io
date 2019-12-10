@@ -1,11 +1,11 @@
 # Site settings
-author: Devon James Wright
-title: 
+author: Devon Wright
+title: My journey to Developing
 header-img: img/home-bg.png
 email: devonjamess.wright@gmail.com
-copyright_name: Devon James Wright
+copyright_name: Devon Wright
 description: > # this means to ignore newlines until "baseurl:"
-  
+  (I totally know what I'm doing)
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  DevonJamesWright
