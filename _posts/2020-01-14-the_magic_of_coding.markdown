@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The 'magic' of coding "
-date:       2020-01-14 15:16:57 +0000
+date:       2020-01-14 10:16:58 -0500
 permalink:  the_magic_of_coding
 ---
 
